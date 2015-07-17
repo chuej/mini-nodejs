@@ -1,4 +1,4 @@
-REGISTRY=mutterio
+REGISTRY=chuej
 NAME=mini-nodejs
 TAG=builder
 
